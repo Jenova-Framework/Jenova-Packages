@@ -32,7 +32,7 @@
       "pkgUninstallScript": false
     },
     {
-      "pkgName": "Godot SDK 4.3.05 for Jenova (Windows x64)",
+      "pkgName": "Godot SDK 4.3.05 for Jenova",
       "pkgVersion": "4.3.05 (x64)",
       "pkgDescription": "Godot Software Development Kit Prepared for Jenova Framework",
       "pkgHash": "9c4e76159659974f3249456534dcda4d",
@@ -47,7 +47,7 @@
       "pkgUninstallScript": false
     },
     {
-      "pkgName": "Jenova Large Language Model Runtime (Windows x64)",
+      "pkgName": "Jenova Large Language Model Runtime (Vulkan)",
       "pkgVersion": "1.0.0 (x64)",
       "pkgDescription": "Lightweight and High Performance Large Language Model Runtime for Jenova Framework",
       "pkgHash": "476401f954f88b47de4cba088a232efa",
