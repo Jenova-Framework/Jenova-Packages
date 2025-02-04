@@ -41,8 +41,8 @@
       "pkgPlatform": 1,
       "pkgSize": 1073,
       "pkgDate": "1/21/2025 8:59:52 PM",
-      "pkgURL": "res://Jenova/Packages/JenovaGNUCompiler-13.3.0",
-      "pkgDestination": "https://github.com/Jenova-Framework/Jenova-Packages/releases/download/jenova-gcc-compiler-pkg-13.3.0/JenovaGNUCompiler-13.3.0.7z",
+      "pkgURL": "https://github.com/Jenova-Framework/Jenova-Packages/releases/download/jenova-gcc-compiler-pkg-13.3.0/JenovaGNUCompiler-13.3.0.7z",
+      "pkgDestination": "res://Jenova/Packages/JenovaGNUCompiler-13.3.0",
       "pkgInstallScript": true,
       "pkgUninstallScript": false
     },
