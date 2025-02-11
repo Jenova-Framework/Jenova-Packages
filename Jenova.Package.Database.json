@@ -47,7 +47,7 @@
       "pkgUninstallScript": false
     },
     {
-      "pkgName": "GNU Compiler Collection 13.3.0 Compiler for Jenova (Wet-Shoelace Edition)",
+      "pkgName": "GNU Compiler Collection 13.3.0 Compiler for Jenova (Improved)",
       "pkgVersion": "13.3.0 (x64)",
       "pkgDescription": "GNU Compiler Collection C++ Build Tools for Jenova Framework Improved by Wet-Shoelace",
       "pkgHash": "93366107bca387f41e5111ec5fb113a6",
