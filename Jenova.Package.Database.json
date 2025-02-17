@@ -32,7 +32,7 @@
       "pkgUninstallScript": false
     },
     {
-      "pkgName": "LLVM Clang Compiler 19.1.7 (Microsoft Edition)",
+      "pkgName": "LLVM Clang 19.1.7 Compiler (Microsoft Edition)",
       "pkgVersion": "19.1.7 (x64)",
       "pkgDescription": "LLVM Clang Build Tools with Microsoft Compatibility (Clang-cl) for Jenova Framework",
       "pkgHash": "d2f1196f1059aea1a61935da7b641ebd",
