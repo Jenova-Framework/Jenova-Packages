@@ -2,7 +2,7 @@
   "providerName": "MemarDesign™ LLC.",
   "packages": [
     {
-      "pkgName": "Microsoft Visual C++ 14.38.33130 Compiler",
+      "pkgName": "Microsoft Visual C++ 14.38.33130 Toolchain",
       "pkgVersion": "14.38.33130 (x64)",
       "pkgDescription": "Fully-Featured Microsoft Visual C++ Build Tools for Jenova Framework",
       "pkgHash": "42ee241be3ddf31733153c7a14f7577e",
@@ -17,7 +17,7 @@
       "pkgUninstallScript": false
     },
     {
-      "pkgName": "Microsoft Visual C++ 14.38.33130 Compiler (With LLVM)",
+      "pkgName": "Microsoft Visual C++ 14.38.33130 Toolchain (With LLVM)",
       "pkgVersion": "14.38.33130 (x64)",
       "pkgDescription": "Fully-Featured Microsoft Visual C++ Build Tools With LLVM Support for Jenova Framework",
       "pkgHash": "067e310fcaeaa840e970bf76b153e6ed",
@@ -32,7 +32,7 @@
       "pkgUninstallScript": false
     },
     {
-      "pkgName": "LLVM Clang 19.1.7 Compiler (Microsoft Edition)",
+      "pkgName": "LLVM Clang 19.1.7 Toolchain (Microsoft Edition)",
       "pkgVersion": "19.1.7 (x64)",
       "pkgDescription": "LLVM Clang Build Tools with Microsoft Compatibility (Clang-cl) for Jenova Framework",
       "pkgHash": "d2f1196f1059aea1a61935da7b641ebd",
@@ -47,7 +47,7 @@
       "pkgUninstallScript": false
     },
     {
-      "pkgName": "GNU Compiler Collection 13.3.0 Compiler",
+      "pkgName": "GNU Compiler Collection 13.3.0 Toolchain",
       "pkgVersion": "13.3.0 (x64)",
       "pkgDescription": "GNU Compiler Collection C++ Build Tools for Jenova Framework",
       "pkgHash": "7c16d5012b859127857594f321e00f90",
@@ -62,7 +62,7 @@
       "pkgUninstallScript": false
     },
     {
-      "pkgName": "GNU Compiler Collection 13.3.0 Compiler (Improved)",
+      "pkgName": "GNU Compiler Collection 13.3.0 Toolchain (Improved)",
       "pkgVersion": "13.3.0 (x64)",
       "pkgDescription": "GNU Compiler Collection C++ Build Tools for Jenova Framework Improved by Wet-Shoelace",
       "pkgHash": "93366107bca387f41e5111ec5fb113a6",
