@@ -137,7 +137,7 @@
       "pkgUninstallScript": false
     },
     {
-      "pkgName": "Jenova Tool Template 1.0.0 Alpha",
+      "pkgName": "Jenova Tool Template 1.0 (MSVC/LLVM)",
       "pkgVersion": "1.0.0 (x64)",
       "pkgDescription": "A Template Tool + Source Code for Jenova Framework for Learning Purpose",
       "pkgHash": "2e6e32bf5c05ef1c546c2449740b7dbc",
